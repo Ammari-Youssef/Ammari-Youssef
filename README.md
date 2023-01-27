@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **youssef.ammari.795@gmail.com**
 
-- ⚡ Fun fact **I am a Tea addict ☘**
+- ⚡ Fun fact **I enjoy learning ☘**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
