@@ -1,7 +1,7 @@
 <img src="standard.gif" width="100%" height="200px"/>
 
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
-<h3 align="center">Software Engineering student | Full-Stack and Android developer</h3>
+<h3 align="center">A passionate Full-Stack | Android developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Software Engineering Diploma**
 
-- 🌱 I’m currently learning **Spring ,<!--Node JS ,, PHP Laravel,ASP.Net--> Angular **
+- 🌱 I’m currently looking for a internship <!-- **Spring ,Node JS ,, PHP Laravel,ASP.Net Angular **-->
 
 - 📫 How to reach me **youssef.ammari.795@gmail.com**
 
-<!--- ⚡ Fun fact **I enjoy learning ☘** -->
+<!-- - ⚡ Fun fact **I enjoy learning ☘** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joebroski&show_icons=true&locale=en" alt="joebroski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joebroski&" alt="joebroski" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joebroski&" alt="joebroski" /></p> -->
