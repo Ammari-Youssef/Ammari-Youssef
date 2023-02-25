@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebroski" alt="joebroski" /></a> </p> -->
 
-[![](https://visitcount.itsvg.in/api?id=JoeBroski&icon=2&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=JoeBroski&icon=2&color=0)](https://visitcount.itsvg.in) -->
 
 - 🔭 I’m currently working on **Software Engineering Diploma**
 
