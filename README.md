@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joebroski&label=Profile%20views&color=0e75b6&style=flat" alt="joebroski" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joebroski&label=Profile%20views&color=0e75b6&style=flat" alt="joebroski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebroski" alt="joebroski" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebroski" alt="joebroski" /></a> </p> -->
 
 - 🔭 I’m currently working on **Software Engineering Diploma**
 
-- 🌱 I’m currently learning **Spring Boot ,Node JS , Angular JS, PHP Laravel,ASP.Net**
+- 🌱 I’m currently learning **Spring ,<!--Node JS ,, PHP Laravel,ASP.Net--> Angular **
 
 - 📫 How to reach me **youssef.ammari.795@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning ☘**
+<!--- ⚡ Fun fact **I enjoy learning ☘** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
