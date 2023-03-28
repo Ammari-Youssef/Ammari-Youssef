@@ -1,4 +1,4 @@
-<img src="eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947" width="100%" height="200px"/>
+<img src="banner.png" width="100%" height="200px"/>
 
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
 <h3 align="center">A passionate Full-Stack | Android developer</h3>
@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebroski" alt="joebroski" /></a> </p> -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=JoeBroski&icon=2&color=0)](https://visitcount.itsvg.in) -->
+
 [![](https://visitcount.itsvg.in/api?id=JoeBroski&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Software Engineering Diploma**
