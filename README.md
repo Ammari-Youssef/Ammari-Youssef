@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%" height="100%"/>
 
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
-<h3 align="center">A passionate Full-Stack | Android developer</h3>
+<h3 align="center">A passionate Full-Stack / Mobile developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
