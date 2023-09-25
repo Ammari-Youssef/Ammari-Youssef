@@ -40,19 +40,37 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          alt="html5" width="40" height="40" />
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <a>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"
-            width="40" height="40">
-        </a>
-      </td>
+            alt="css3" width="40" height="40" /></a>
+      </a><a href="https://getbootstrap.com"><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"
+          width="35" height="35"></a>
+      <br>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          alt="javascript" width="35" height="35" /> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"> <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript"
+          width="35" height="35" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="" width="40">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="" width="40">
+      <br>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width="35"
+          height="35" /> </a>
+      <!-- <a href="https://redux.org/" target="_blank" rel="noreferrer"> <img
+              src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux"
+              width="35" height="35" /> </a> -->
+      <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+          src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
+          alt="Angular" width="35" height="35" /> </a>
+    </td>
       <td align="center">
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
           <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"
