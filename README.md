@@ -18,7 +18,7 @@
 - 🌱 I’m currently looking for a final graduation project internship (Stage PFE)
 - 📫 How to reach me **youssef.ammari.795@gmail.com**
 
-- 💬 Ask me about: Laravel , Java & ReactJS
+- 💬 Ask me about: Laravel , Java & React.js
 
 - ⚡ Fun fact I'm a keyboard shortcut maestro. Efficiency is my middle name when it comes to coding! ☘🎹
 
@@ -70,6 +70,7 @@
       <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
           src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
           alt="Angular" width="35" height="35" /> </a>
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  <img width="35" height="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/> </a>
     </td>
       <td align="center">
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -78,8 +79,11 @@
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"
-            alt="Laravel" width="100" height="40" />
+            alt="Laravel" width="100" height="40" title="Laravel"/>
         </a>
+        <a href="[https://spring.io/](https://spring.io/projects/spring-boot/)" target="_blank" rel="noreferrer">
+       <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+	     </a>
       </td>
       <td align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -92,6 +96,9 @@
         </a>
         <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+        </a>
+        <a href="https://www.vectorlogo.zone/logos/sqlite/mongodb-icon.svg" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
         </a>
       </td>
     </tr>
