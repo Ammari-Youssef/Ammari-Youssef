@@ -1,119 +1,94 @@
-<img src="banner.png" width="100%" height="100%"/>
+<!-- Banner image (optional)-->
+<img src="banner.png" width="100%" height="80%"/> 
 
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
-<!-- <h3 align="center">Full-Stack / Mobile developer</h3> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Software+Engineer%2C;Full-Stack+Web+%26+Mobile+Developer%2C;AI+Enthusiast%2C+and+DevOps+Advocate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+FullStack+Dev;Java+Lover+%7C+Spring+Boot+Fanatic;Learning+Every+Day+%7C+Let's+Connect!" alt="Typing SVG" />
   </a>
 </div>
 
 
-
+# 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammari-youssef&label=Profile%20views&color=0e75b6&style=flat" alt="joebroski" /> </p> -->
+🔬 Software Engineer (MEng) passionate about building scalable, meaningful software.<br><br>
+📚 Currently diving deep into Spring Boot and Oracle Java SE 17 certification.<br><br>
+📫 Reach me anytime: <a href="mailto:youssef.ammari.795@gmail.com"> <strong>Drop me a line</strong></a><br><br>
+💬 Ask me about: <strong>Java, Spring Boot, React & Angular.</strong><br><br>
+🍵 Fun fact: I love tea almost as much as I love clean code.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebroski" alt="joebroski" /></a> </p> -->
 
-<!-- [![](https://visitcount.itsvg.in/api?id=JoeBroski&icon=2&color=0)](https://visitcount.itsvg.in) -->
+# 🌍 Socials
 
-[![](https://visitcount.itsvg.in/api?id=JoeBroski&icon=5&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/am-ysf)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](youssef.ammari.795@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge)](https://www.hackerrank.com/profile/youssef_ammari_2)
 
-<!-- New updated readme -->
 
-# 💫 About Me:
 
-🔭 I’m a Software Engineer with a Master's Degree (MEng).<br><br>🌱 I’m always looking for new opportunities and challenges.<br><br>📫 How to reach me: youssef.ammari.795@gmail.com<br><br>💬 Ask me about: Java, React.js, and Angular.<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me with a cup of tea in hand, brainstorming my next project! 🍵💡
+## ⚒️ Tech Stack
 
-## 🌐 Socials:
+<!-- Stack icons -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30"/>
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/am-ysf)
-
-# 💻 Tech Stack:
-
-#### Programmming Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### Web Development
-
-<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) -->
-
-#### Backend Frameworks
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-<!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
-
-#### Mobile Development
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
-#### Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-<!-- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  -->
-
-#### DevOps
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  -->
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-
-#### Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-<!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  -->
-<!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
-
-<!-- #### Design and Visualization
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) -->
-
-#### Data Sciences and Machine Learning
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-<!-- #### Other
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  -->
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Ammari-Youssef&theme=dark&hide_border=True&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammari-Youssef&theme=dark&hide_border=True&include_all_commits=True&count_private=True&layout=compact)
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammari-Youssef&theme=dark&hide_border=True" alt="Streak Stats"/>
 </div>
 
-### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api?username=Ammari-Youssef&theme=dark&hide_border=True&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammari-Youssef&theme=dark&hide_border=True&layout=compact&count_private=true)
 
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Ammari-Youssef&limit=5&theme=dark&combine_all_yearly_contributions=true"/></div>
+---
+## 🐍 GitHub Contribution Snake
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</div>
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ammari-Youssef/count.svg?" alt="Profile views counter"/>
+</div>
+
+---
+
+## 🧠 Wise Words
+
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+> — **Cory House**
+---
+
+## 👋 Thanks for stopping by!
