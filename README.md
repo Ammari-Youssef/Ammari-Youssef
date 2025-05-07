@@ -1,5 +1,5 @@
 <!-- Banner image (optional)-->
-<img src="banner.png" width="100%" height="80%"/> 
+<img src="banner.png" width="100%" height="50%"/> 
 
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
 
