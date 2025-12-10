@@ -89,15 +89,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammari-Youssef&theme=dark&hide_border=True" alt="Streak Stats (API is down)"/>
+  <a href="https://stats.hyo.dev/stats/ammari-youssef"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=ammari-youssef" width="600" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ammari-Youssef&theme=dark&hide_border=True&include_all_commits=true&count_private=true" alt="GitHub Stats (API is down)"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammari-Youssef&theme=dark&hide_border=True&layout=compact&count_private=true" alt="Top Languages (API is down)"/>
-</div>
+</div> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Ammari-Youssef&theme=dark&hide_border=True&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammari-Youssef&theme=dark&hide_border=True&layout=compact&count_private=true)
