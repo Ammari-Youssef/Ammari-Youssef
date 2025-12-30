@@ -27,63 +27,71 @@
 [![Gmail](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge)](https://www.hackerrank.com/profile/youssef_ammari_2)
 
 
-
 ## ⚒️ Tech Stack
 
-<!-- Stack icons -->
 <div align="center">
-  <!-- Core languages and frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
+  
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="spring logo" />
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" width="40" alt="springboot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="40" alt="laravel logo" />
+  
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="40" alt="angularjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" alt="tailwindcss logo" />
   
-  <!-- Databases and API -->
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="sqlite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
-
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" /> -->
+  
+  <!-- APIs & Testing -->
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" width="40" alt="graphql logo" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="40" alt="swagger logo" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" width="40" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" height="40" width="40" alt="junit logo" />
   
-  <!-- DevOps, CI/CD, Hosting -->
+  <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="kubernetes logo" />-->
-  <!--<img src="https://skillicons.dev/icons?i=jenkins" height="40" width="40" alt="jenkins logo" />-->
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" width="40" alt="apachemaven logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="40" alt="tomcat logo" />
-  <!-- <img src="https://skillicons.dev/icons?i=kafka" height="40" width="40" alt="apachekafka logo" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="40" width="40" alt="heroku logo" />    -->      
- <!-- <img src="https://skillicons.dev/icons?i=aws" height="40" width="40" alt="amazonwebservices logo" />-->
-
-  
-  <!-- Testing -->
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="jest logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" width="40" alt="jasmine logo" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" height="40" width="40"/>          
-          
-  
-  <!-- Other frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="40" alt="laravel logo" />
-  
-  
-  <!-- Tools & Creative -->
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" width="40" alt="maven logo" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="gitlab logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="figma logo" />         
+  
+  <!-- IDEs & Design -->
   <img src="https://skillicons.dev/icons?i=idea,vscode" />
-  <!--<img src="https://skillicons.dev/icons?i=threejs" height="40" width="40" alt="threejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" width="40" alt="blender logo" />-->
+  <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="figma logo" />
+
 </div>
+
+<!-- Future Tech Stack - Commented until used in production projects
+  
+  Backend & Messaging:
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" width="40" alt="kafka logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" />
+  
+  DevOps & Cloud:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" width="40" alt="jenkins logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" width="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="40" width="40" alt="heroku logo" />
+  
+  Frontend Testing:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" width="40" alt="jasmine logo" />
+  
+  Other:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="40" alt="tomcat logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" width="40" alt="threejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" width="40" alt="xd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" width="40" alt="blender logo" />
+
+-->
 
 
 
