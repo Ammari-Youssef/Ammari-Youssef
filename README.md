@@ -100,7 +100,7 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammari-Youssef&theme=dark&hide_border=True" alt="Streak Stats (API is down)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammari-Youssef&theme=dark&hide_border=True" alt="Ammari-Youssef's Streak Stats (API is down)"/>
   <a href="https://stats.hyo.dev/stats/ammari-youssef"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=ammari-youssef" width="600" /></a>
 </div>
 
