@@ -1,6 +1,6 @@
 <!-- Banner image (optional)-->
 <!-- <img src="banner.png" width="100%" height="100%"/> -->
-
+![GitHub total views](https://komarev.com/ghpvc/?username=Ammari-Youssef)
 <h1 align="center">Hi 👋, I'm Youssef Ammari</h1>
 
 <div align="center">
@@ -127,7 +127,7 @@
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Profile Views 
 
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/Ammari-Youssef/count.svg?" alt="Total profile views counter (API is down)"/> -->
