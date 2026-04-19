@@ -31,51 +31,51 @@
 <p align="center">
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-<img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
-<img src="https://cdn.simpleicons.org/springboot/6DB33F" height="50" alt="Spring Boot" />
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-<img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+<img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
 
 <!-- Microservices & API -->
-<img src="https://skillicons.dev/icons?i=kafka" height="50" alt="Kafka" />
-<img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" alt="Swagger" />
-<img src="https://jwt.io/img/pic_logo.svg" height="50" alt="JWT" />
+<img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
+<img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger" />
+<img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" />
 
 <!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-<img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" />
-<img src="https://skillicons.dev/icons?i=maven,gradle" height="50" alt="Maven" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50" alt="tomcat logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="50" alt="JUnit" />
-<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-<img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="50" alt="jasmine logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+<img src="https://skillicons.dev/icons?i=maven,gradle" height="40" alt="Maven" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" alt="JUnit" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine logo" />
 
 <!-- Editors & Others -->
-<img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-<img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
 
 </p>
 
