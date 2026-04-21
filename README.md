@@ -79,18 +79,6 @@
 
 </p>
 
-<!-- Future Tech Stack - Commented until used in production projects -->
-  
-  <!--
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" width="40" alt="threejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" width="40" alt="xd logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" width="40" alt="blender logo" />
-  -->
-
-
-
-
-
 ## 📊 Stats
 
 <div align="center">
