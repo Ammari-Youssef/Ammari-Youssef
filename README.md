@@ -13,11 +13,11 @@
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🔬 Software Engineer (MEng) passionate about building scalable, meaningful software.<br><br>
-📚 Currently diving deep into **Spring Boot**, **microservices**, and Oracle Java SE 17 certification.<br><br>
-📫 Reach me anytime: <a href="mailto:youssef.ammari.795@gmail.com"> <strong>Get In Touch</strong></a><br><br>
-💬 Ask me about: <strong>Java, Spring Boot, Angular & React.</strong><br><br>
-🍵 Fun fact: I love tea almost as much as I love clean code.
+🔬 Software Engineer (MEng) building scalable backend and full-stack systems<br><br>
+📚 Focused on Spring Boot and microservices architecture<br><br>
+📫 Contact: <a href="mailto:youssef.ammari.795@gmail.com"><strong>Get in touch</strong></a><br><br>
+💬 Expertise: <strong>Java, Spring Boot, Angular and React</strong><br><br>
+🍵 Fun fact: I enjoy tea almost as much as clean code
 
 
 # 🌍 Socials
