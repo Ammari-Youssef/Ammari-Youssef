@@ -16,7 +16,7 @@
 🔬 Software Engineer (MEng) building scalable backend and full-stack systems<br><br>
 📚 Focused on Spring Boot and microservices architecture<br><br>
 📫 Contact: <a href="mailto:youssef.ammari.795@gmail.com"><strong>Get in touch</strong></a><br><br>
-💬 Expertise: <strong>Java, Spring Boot, Angular and React</strong><br><br>
+💬 Core stack: <strong>Java, Spring Boot, Angular and React</strong><br><br>
 🍵 Fun fact: I enjoy tea almost as much as clean code
 
 
