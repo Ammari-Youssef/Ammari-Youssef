@@ -59,6 +59,7 @@
 
 <!-- DevOps & Tools -->
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
 <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
 <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
