@@ -76,6 +76,7 @@
 <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
 <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
 
 </p>
